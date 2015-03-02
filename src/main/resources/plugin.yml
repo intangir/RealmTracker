@@ -1,0 +1,6 @@
+name: RealmTracker
+main: com.github.intangir.RealmTracker.RealmTracker
+version: ${version}
+author: Intangir
+depends: [Yamler]
+
